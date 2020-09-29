@@ -66,6 +66,7 @@ echo "
 			<b>{$valitut_sanat}</b> <br />
 			<b>{$ss_iso_kirjain_numero_ja_erikoismerkki}</b>
 		</p>
+		<footer>Lähdekoodi saatavilla: <a href='https://github.com/konsou/pwgen' target='_blank'>https://github.com/konsou/pwgen</a></footer>
 	</body>
 </html>";
 ?>
